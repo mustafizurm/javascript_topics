@@ -1,5 +1,5 @@
 
-# Javascript
+# জাভাস্ক্রিপ্ট
 
 Welcome to my Mini Projects Collection! This repository showcases a variety of small projects I've worked on, each serving as a fun experiment or a learning opportunity. Below you'll find a quick index for easy navigation.
 
