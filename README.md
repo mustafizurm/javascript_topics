@@ -5,11 +5,11 @@ Welcome to my Mini Projects Collection! This repository showcases a variety of s
 
 ## Table of Contents
 
-1. [Json](#json of js)
+1. [Json](#json-of-js)
 
 ### Topics
 
-## Json of js
+## json-of-js
 - **Description:** 
 
 ## Getting Started
