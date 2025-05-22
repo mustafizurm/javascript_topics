@@ -3,13 +3,13 @@
 
 Welcome to my Mini Projects Collection! This repository showcases a variety of small projects I've worked on, each serving as a fun experiment or a learning opportunity. Below you'll find a quick index for easy navigation.
 
-## Table of Contents
+### Table of Contents
 
-1. [Todo 1](#todo-1)
+1. [Json](#json-of-js)
 
 ## Topics
 
-### Todo 1
+### Json 0f js
 - **Description:** 
 
 ## Getting Started
